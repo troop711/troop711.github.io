@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/public" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@ampproject/remapping/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@astrojs/compiler/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@astrojs/internal-helpers/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@astrojs/markdown-remark/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@astrojs/mdx/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@astrojs/prism/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@astrojs/rss/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@astrojs/sitemap/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@astrojs/telemetry/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@jridgewell/gen-mapping/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@jridgewell/resolve-uri/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@jridgewell/set-array/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@jridgewell/sourcemap-codec/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/@jridgewell/trace-mapping/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/acorn/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/ansi-sequence-parser/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/astring/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/astro/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/caniuse-lite/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/clsx/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/dequal/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/diff/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/dlv/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/dset/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/es-module-lexer/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/escalade/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/esprima/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/gray-matter/node_modules/js-yaml/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/inline-style-parser/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/js-yaml/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/json5/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/load-yaml-file/node_modules/js-yaml/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/magic-string/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/path-to-regexp/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/prompts/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/rollup/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/shiki/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/signal-exit/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/sitemap/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/source-map/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/sprintf-js/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/style-to-object/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/tsconfig-resolver/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/uvu/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/vite/dist" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
